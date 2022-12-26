@@ -1,0 +1,15 @@
+C:\Users\MAO\Desktop\Own practice\bin\Debug\net6.0\Own practice.exe
+C:\Users\MAO\Desktop\Own practice\bin\Debug\net6.0\Own practice.deps.json
+C:\Users\MAO\Desktop\Own practice\bin\Debug\net6.0\Own practice.runtimeconfig.json
+C:\Users\MAO\Desktop\Own practice\bin\Debug\net6.0\Own practice.dll
+C:\Users\MAO\Desktop\Own practice\bin\Debug\net6.0\Own practice.pdb
+C:\Users\MAO\Desktop\Own practice\obj\Debug\net6.0\Own practice.csproj.AssemblyReference.cache
+C:\Users\MAO\Desktop\Own practice\obj\Debug\net6.0\Own practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAO\Desktop\Own practice\obj\Debug\net6.0\Own practice.AssemblyInfoInputs.cache
+C:\Users\MAO\Desktop\Own practice\obj\Debug\net6.0\Own practice.AssemblyInfo.cs
+C:\Users\MAO\Desktop\Own practice\obj\Debug\net6.0\Own practice.csproj.CoreCompileInputs.cache
+C:\Users\MAO\Desktop\Own practice\obj\Debug\net6.0\Own practice.dll
+C:\Users\MAO\Desktop\Own practice\obj\Debug\net6.0\refint\Own practice.dll
+C:\Users\MAO\Desktop\Own practice\obj\Debug\net6.0\Own practice.pdb
+C:\Users\MAO\Desktop\Own practice\obj\Debug\net6.0\Own practice.genruntimeconfig.cache
+C:\Users\MAO\Desktop\Own practice\obj\Debug\net6.0\ref\Own practice.dll

@@ -1,0 +1,15 @@
+C:\Users\MAO\source\repos\variables my own practice\obj\Debug\net6.0\variables my own practice.csproj.AssemblyReference.cache
+C:\Users\MAO\source\repos\variables my own practice\obj\Debug\net6.0\variables my own practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAO\source\repos\variables my own practice\obj\Debug\net6.0\variables my own practice.AssemblyInfoInputs.cache
+C:\Users\MAO\source\repos\variables my own practice\obj\Debug\net6.0\variables my own practice.AssemblyInfo.cs
+C:\Users\MAO\source\repos\variables my own practice\obj\Debug\net6.0\variables my own practice.csproj.CoreCompileInputs.cache
+C:\Users\MAO\source\repos\variables my own practice\bin\Debug\net6.0\variables my own practice.exe
+C:\Users\MAO\source\repos\variables my own practice\bin\Debug\net6.0\variables my own practice.deps.json
+C:\Users\MAO\source\repos\variables my own practice\bin\Debug\net6.0\variables my own practice.runtimeconfig.json
+C:\Users\MAO\source\repos\variables my own practice\bin\Debug\net6.0\variables my own practice.dll
+C:\Users\MAO\source\repos\variables my own practice\bin\Debug\net6.0\variables my own practice.pdb
+C:\Users\MAO\source\repos\variables my own practice\obj\Debug\net6.0\variables my own practice.dll
+C:\Users\MAO\source\repos\variables my own practice\obj\Debug\net6.0\refint\variables my own practice.dll
+C:\Users\MAO\source\repos\variables my own practice\obj\Debug\net6.0\variables my own practice.pdb
+C:\Users\MAO\source\repos\variables my own practice\obj\Debug\net6.0\variables my own practice.genruntimeconfig.cache
+C:\Users\MAO\source\repos\variables my own practice\obj\Debug\net6.0\ref\variables my own practice.dll
