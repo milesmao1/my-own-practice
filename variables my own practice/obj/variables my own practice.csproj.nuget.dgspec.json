@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MAO\\source\\repos\\variables my own practice\\variables my own practice.csproj": {}
+    "C:\\Users\\MAO\\Desktop\\repos\\variables my own practice\\variables my own practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MAO\\source\\repos\\variables my own practice\\variables my own practice.csproj": {
+    "C:\\Users\\MAO\\Desktop\\repos\\variables my own practice\\variables my own practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MAO\\source\\repos\\variables my own practice\\variables my own practice.csproj",
+        "projectUniqueName": "C:\\Users\\MAO\\Desktop\\repos\\variables my own practice\\variables my own practice.csproj",
         "projectName": "variables my own practice",
-        "projectPath": "C:\\Users\\MAO\\source\\repos\\variables my own practice\\variables my own practice.csproj",
+        "projectPath": "C:\\Users\\MAO\\Desktop\\repos\\variables my own practice\\variables my own practice.csproj",
         "packagesPath": "C:\\Users\\MAO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MAO\\source\\repos\\variables my own practice\\obj\\",
+        "outputPath": "C:\\Users\\MAO\\Desktop\\repos\\variables my own practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
